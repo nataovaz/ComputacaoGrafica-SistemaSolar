@@ -1,6 +1,8 @@
 # ComputaçãoGráfica - SistemaSolar
 Este projeto foi criado com a ideia de criar um Sistema Solar com as funcionalidades do OpenGl, através da disciplina de Computação Gráfica e Processamento de Imagens, desenvolvido por alunos de Engenharia de Computação - UNIFEI.
 
+https://github.com/nataovaz/ComputacaoGrafica-SistemaSolar/blob/main/LICENSE
+
 ## Desenvolvido por
 - Natan - Engenharia da Computação [Github](https://github.com/nataovaz)
 - Brenda - Engenharia da Computação [Github](https://github.com/BrendaGobira)
@@ -33,4 +35,4 @@ pontual, ambiente, difusa e especular. Elas foram declaradas na função display
 Origem.cpp.
 
 #### Anexos:
-[![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")]
+![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")
