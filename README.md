@@ -12,7 +12,7 @@ abaixo. No entanto, com o intuito de elaborar mais o projeto, foi levantada a id
 Sistema Solar com as funcionalidades do OpenGl, incrementando nele alguns objetos
 incomuns, como um cubo, um bule de chá e um icosaedro.
 
-###Etapas do projeto
+### Etapas do projeto
 Nos Arquivos de Origem do projeto, é possível encontrar, além do arquivo
 Origem.cpp — onde está a base do código do trabalho —, os outros arquivos importantes
 para o funcionamento do programa. Nele, estão presentes os Bitmaps necessários para as
@@ -22,6 +22,7 @@ onde os arquivos serão passados, possibilitando seu uso como textura; o primiti
 as funções dos modelos usados e; por último, foi inserido um README.txt com as
 informações dos discentes e para instruir o usuário de como observar todos os modelos
 renderizados pelo código.
+
 Neste sentido, o arquivo primitiva.h é aquele que vai retornar todas as funções que
 elaboram as figuras tridimensionais, como um cubo, um bule de chá e um icosaedro. A
 elaboração desta biblioteca é bastante importante para a indentação do projeto. Os arquivos
@@ -31,4 +32,5 @@ Ademais, as fontes de iluminação utilizadas na elaboração do Sistema Solar f
 pontual, ambiente, difusa e especular. Elas foram declaradas na função display, presentes na
 Origem.cpp.
 
-[![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")]
+#### Anexos:
+[![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")
