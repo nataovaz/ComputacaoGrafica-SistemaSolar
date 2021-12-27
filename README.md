@@ -1,4 +1,5 @@
 # ComputaçãoGráfica - SistemaSolar
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nataovaz/ComputacaoGrafica-SistemaSolar/blob/main/LICENSE)
 Este projeto foi criado com a ideia de criar um Sistema Solar com as funcionalidades do OpenGl, através da disciplina de Computação Gráfica e Processamento de Imagens, desenvolvido por alunos de Engenharia de Computação - UNIFEI.
 
 https://github.com/nataovaz/ComputacaoGrafica-SistemaSolar/blob/main/LICENSE
