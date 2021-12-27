@@ -31,4 +31,4 @@ Ademais, as fontes de iluminação utilizadas na elaboração do Sistema Solar f
 pontual, ambiente, difusa e especular. Elas foram declaradas na função display, presentes na
 Origem.cpp.
 
-[!][Image][https://imgur.com/a/4GOd1eo "Projeto finalizado"]
+[![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")]
