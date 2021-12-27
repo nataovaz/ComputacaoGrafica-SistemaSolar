@@ -33,4 +33,4 @@ pontual, ambiente, difusa e especular. Elas foram declaradas na função display
 Origem.cpp.
 
 #### Anexos:
-[![Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")
+[Image](https://i.imgur.com/FaKxCAt.jpg "Projeto finalizado")
