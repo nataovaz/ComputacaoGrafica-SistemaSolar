@@ -1,0 +1,15 @@
+﻿  Camera.cpp
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\Camera.h(15,13): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\Camera.cpp(66,22): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  main.cpp
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(5,36): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(7,31): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(10,38): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(12,36): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(13,31): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(14,39): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\cores.h(15,33): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\main.cpp(8,10): fatal error C1083: Não é possível abrir arquivo incluir: 'primitivas.h': No such file or directory
+  Textura.cpp
+C:\Users\Natan\source\repos\PráticaProjeto\PráticaProjeto\Textura.cpp(10,10): fatal error C1083: Não é possível abrir arquivo incluir: 'stb_image.h': No such file or directory
+  Gerando Código...
